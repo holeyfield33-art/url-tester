@@ -22,7 +22,7 @@ Extracted and simplified from [PentAGI](https://github.com/vxcontrol/pentagi) `c
 ```bash
 git clone https://github.com/holeyfield33-art/url-tester.git
 cd url-tester
-go mod tidy
+go mod tidy   # downloads deps and creates go.sum
 go build -o url-tester .
 ```
 
