@@ -1,0 +1,4 @@
+url-tester
+ftester
+*.exe
+/bin/
